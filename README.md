@@ -1,3 +1,2 @@
-# Basic-Cpp-codes
-TuanMac's Cpp codes archive
+# Coding Practicing
 My Archive for coding practices
